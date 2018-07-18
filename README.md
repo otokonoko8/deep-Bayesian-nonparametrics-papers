@@ -16,7 +16,7 @@
 9. [Deep Gaussian Processes with Convolutional Kernels](https://arxiv.org/abs/1806.01655)
 10. [Inference in Deep Gaussian Processes using Stochastic Gradient Hamiltonian Monte Carlo](https://arxiv.org/abs/1806.05490)
 
-### Gaussian Processes with Neural-network-like-structures and Inference Algorithms
+### Gaussian Processes with Neural-network-inspired-structures and Inference Algorithms
 1. [Recurrent Gaussian Processes](https://arxiv.org/abs/1511.06644)
 2. [Deep Recurrent Gaussian Process with Variational Sparse Spectrum Approximation](https://arxiv.org/abs/1711.00799)
 3. [Convolutional Gaussian Processes](https://arxiv.org/abs/1709.01894)
@@ -30,6 +30,7 @@
 ### Bayesian Nonparametric Variational Autoencoders/ Amortised Inference with Nonparamteric Priors  
 1. [Stick-breaking Variational Autoencoders](http://arxiv.org/abs/1605.06197)
 2. [Nonparametric Variational Autoencoders for Hierarchical Representation Learning](http://arxiv.org/abs/1703.07027)
+3. [Deep Bayesian Nonparametric Tracking](http://www.columbia.edu/~jwp2128/Papers/ZhangPaisley2018.pdf)
 
 ### Bayesian Nonparametric Neural Networks/ Variational Inference with Implicit Stochastic Processes as Priors
 1. [Variational Implict Processes](http://arxiv.org/abs/1806.02390)
