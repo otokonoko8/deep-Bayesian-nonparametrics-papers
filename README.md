@@ -1,9 +1,9 @@
 # deep-Bayesian-nonparametrics
-*The collection of papers about combining deep learning with Bayesian nonparametrics*
+*The collection of papers about combining deep learning with Bayesian nonparametric approaches*
 
   We made a concise name "deep Bayesian non-parametrics"(DBNP) to a series of work bringing the fields of deep learning and Bayesian non-parametrics together. Generally, not only DBNP means combining the neural networks with stochastic processes in Bayesian modelling, but also leveraging common and effective structures designed in deep learning, such as convolution, recurrence and deep hierachies, in Bayesian non-parameterics setting. Meanwhile, corresponding training methods designed for these models, especially approximate inference, are also our concerns.   
   
-### Deep Gaussain Process Models and Inference Algorithms
+### Deep Gaussain Processes and Inference Algorithms
 1. [Deep Gaussian Processes](https://arxiv.org/abs/1211.0358)
 2. [Nested Variational Compression in Deep Gaussian Processes](https://arxiv.org/abs/1412.1370)
 3. [Training Deep Gaussian Processes using Stochastic Expectation Propagation and Probabilistic Backpropagation](https://arxiv.org/abs/1511.03405)
@@ -15,6 +15,13 @@
 9. [Deep Gaussian Processes with Convolutional Kernels](https://arxiv.org/abs/1806.01655)
 10. [Inference in Deep Gaussian Processes using Stochastic Gradient Hamiltonian Monte Carlo](https://arxiv.org/abs/1806.05490)
 
-### 
+### Gaussian Processes with Neural-network-like-structures and Inference Algorithms
 1. [Recurrent Gaussian Processes](https://arxiv.org/abs/1511.06644)
 2. [Deep Recurrent Gaussian Process with Variational Sparse Spectrum Approximation](https://arxiv.org/abs/1711.00799)
+3. [Convolutional Gaussian Processes](https://arxiv.org/abs/1709.01894)
+
+### Gaussian Processes Parameterised by Deep Neural Networks
+1. [Deep Kernel Learning](http://arxiv.org/abs/1511.02222)
+2. [Learning Scalable Deep Kernels with Recurrent Structure](http://arxiv.org/abs/1610.08936)
+3. [Stochastic Variational Deep Kernel Learning](http://arxiv.org/abs/1611.00336)
+4. [Calibrating Deep Convolutional Gaussian Processes](https://arxiv.org/abs/1805.10522)
