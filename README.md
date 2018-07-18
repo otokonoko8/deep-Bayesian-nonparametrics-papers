@@ -1,7 +1,8 @@
+
 # deep-Bayesian-nonparametrics
 *The collection of papers about combining deep learning with Bayesian nonparametric approaches*
 
-  We made a concise name "deep Bayesian non-parametrics"(DBNP) to a series of work bringing the fields of deep learning and Bayesian non-parametrics together. Generally, not only DBNP means combining the neural networks with stochastic processes in Bayesian modelling, but also leveraging common and effective structures designed in deep learning, such as convolution, recurrence and deep hierachies, in Bayesian non-parameterics setting. Meanwhile, corresponding training methods designed for these models, especially approximate inference, are also our concerns.   
+  We made a concise name "deep Bayesian non-parametrics"(DBNP) to a series of work bringing the fields of deep learning and Bayesian non-parametrics together. Generally, not only DBNP means combining the neural networks with stochastic processes in Bayesian modelling, but also leveraging common and effective structures designed in deep learning, such as convolution, recurrence and deep hierachies, in Bayesian nonparameterics setting. Meanwhile, corresponding training methods designed for these models, especially approximate inference, are also our concerns.   
   
 ### Deep Gaussain Processes and Inference Algorithms
 1. [Deep Gaussian Processes](https://arxiv.org/abs/1211.0358)
@@ -25,3 +26,10 @@
 2. [Learning Scalable Deep Kernels with Recurrent Structure](http://arxiv.org/abs/1610.08936)
 3. [Stochastic Variational Deep Kernel Learning](http://arxiv.org/abs/1611.00336)
 4. [Calibrating Deep Convolutional Gaussian Processes](https://arxiv.org/abs/1805.10522)
+
+### Bayesian Nonparametric Variational Autoencoders/ Amortised Inference with Nonparamteric Priors  
+1. [Stick-breaking Variational Autoencoders](http://arxiv.org/abs/1605.06197)
+2. [Nonparametric Variational Autoencoders for Hierarchical Representation Learning](http://arxiv.org/abs/1703.07027)
+
+### Bayesian Nonparametric Neural Networks/ Variational Inference with Implicit Stochastic Processes as Priors
+1. [Variational Implict Processes](http://arxiv.org/abs/1806.02390)
