@@ -1,8 +1,7 @@
- 
 # deep-Bayesian-nonparametrics-papers
 *The collection of papers about combining deep learning with Bayesian nonparametric approaches*
 
-  We made a concise name "deep Bayesian non-parametrics"(DBNP) to a series of work bringing the fields of deep learning and Bayesian nonparametrics together. Generally, not only DBNP means combining the neural networks with stochastic processes in Bayesian modelling, but also leveraging common and effective structures of deep learning, such as convolution, recurrence and deep hierachies, in the setting of Bayesian nonparameterics and reinterpreting neural nets as Bayesian nonparametric models from any perspective. Meanwhile, corresponding training methods designed for these models, especially approximate inference, are also our concerns.   
+  We made a concise name "deep Bayesian non-parametrics"(DBNP) to a series of work bringing the fields of deep learning and Bayesian nonparametrics together. Generally, not only DBNP means combining the neural networks with stochastic processes in Bayesian modelling, but also leveraging common and effective structures of deep learning, uch as convolution, recurrence and deep hierachies, in the setting of Bayesian nonparameterics and reinterpreting neural nets as Bayesian nonparametric models from any perspective. Meanwhile, corresponding training methods designed for these models, especially approximate inference, are also our concerns.   
   
 ### Deep Gaussain Processes and Inference Algorithms
 1. [Deep Gaussian Processes](https://arxiv.org/abs/1211.0358)
@@ -17,8 +16,8 @@
 10. [Inference in Deep Gaussian Processes using Stochastic Gradient Hamiltonian Monte Carlo](https://arxiv.org/abs/1806.05490)
 
 ### Reinterpretation of Neural Networks as Bayesian nonparametric models
-1.[Deep Neural Networks as Gaussian Processes](http://arxiv.org/abs/1711.00165)
-2.[Gaussian Process Behaviour in Wide Deep Neural Networks](http://arxiv.org/abs/1804.11271)
+1. [Deep Neural Networks as Gaussian Processes](http://arxiv.org/abs/1711.00165)
+2. [Gaussian Process Behaviour in Wide Deep Neural Networks](http://arxiv.org/abs/1804.11271)
 
 ### Gaussian Processes with Neural-network-inspired-structures and Inference Algorithms
 1. [Recurrent Gaussian Processes](https://arxiv.org/abs/1511.06644)
