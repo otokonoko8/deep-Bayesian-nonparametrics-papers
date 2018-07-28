@@ -1,7 +1,7 @@
 # deep-Bayesian-nonparametrics-papers
 *The collection of papers about combining deep learning with Bayesian nonparametric approaches*
 
-  We made a concise name "deep Bayesian non-parametrics"(DBNP) to a series of work bringing the fields of deep learning and Bayesian nonparametrics together. Generally, not only DBNP means combining the neural networks with stochastic processes in Bayesian modelling, but also leveraging common and effective structures of deep learning, uch as convolution, recurrence and deep hierachies, in the setting of Bayesian nonparameterics and reinterpreting neural nets as Bayesian nonparametric models from any perspective. Meanwhile, corresponding training methods designed for these models, especially approximate inference, are also our concerns.   
+  We made a concise name "deep Bayesian non-parametrics"(DBNP) to a series of work bringing the fields of deep learning and Bayesian nonparametrics together. Generally, not only DBNP means combining the neural networks with stochastic processes in Bayesian modelling, but also leveraging common and effective structures of deep learning, such as convolution, recurrence and deep hierachies in the setting of Bayesian nonparameterics, introducing nonparametric methods into structure design of neural nets, and reinterpreting neural nets as Bayesian nonparametric models from any perspective. Meanwhile, corresponding training methods designed for these models, especially approximate inference, are also our concerns.   
   
 ### Deep Gaussain Processes and Inference Algorithms
 1. [Deep Gaussian Processes](https://arxiv.org/abs/1211.0358)
@@ -38,3 +38,6 @@
 
 ### Bayesian Nonparametric Neural Networks/ Variational Inference with Implicit Stochastic Processes as Priors
 1. [Variational Implict Processes](http://arxiv.org/abs/1806.02390)
+
+### Structure Design of Neural Networks via Bayesian Nonparametric models
+1. [Nonparametric Bayesian Deep Networks with Local Competition](http://arxiv.org/abs/1805.07624)
