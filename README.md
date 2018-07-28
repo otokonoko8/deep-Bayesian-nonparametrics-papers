@@ -15,7 +15,7 @@
 9. [Deep Gaussian Processes with Convolutional Kernels](https://arxiv.org/abs/1806.01655)
 10. [Inference in Deep Gaussian Processes using Stochastic Gradient Hamiltonian Monte Carlo](https://arxiv.org/abs/1806.05490)
 
-### Reinterpretation of Neural Networks as Bayesian nonparametric models
+### Reinterpretation of Neural Networks as Bayesian Nonparametric Models
 1. [Deep Neural Networks as Gaussian Processes](http://arxiv.org/abs/1711.00165)
 2. [Gaussian Process Behaviour in Wide Deep Neural Networks](http://arxiv.org/abs/1804.11271)
 
@@ -29,6 +29,7 @@
 2. [Learning Scalable Deep Kernels with Recurrent Structure](http://arxiv.org/abs/1610.08936)
 3. [Stochastic Variational Deep Kernel Learning](http://arxiv.org/abs/1611.00336)
 4. [Calibrating Deep Convolutional Gaussian Processes](https://arxiv.org/abs/1805.10522)
+5. [Differentiable Compositional Kernel Learning for Gaussian Processes](http://arviv.org/abs/1806.04326)
 
 ### Bayesian Nonparametric Variational Autoencoders/ Amortised Inference with Nonparamteric Priors  
 1. [Stick-breaking Variational Autoencoders](http://arxiv.org/abs/1605.06197)
@@ -39,5 +40,5 @@
 ### Bayesian Nonparametric Neural Networks/ Variational Inference with Implicit Stochastic Processes as Priors
 1. [Variational Implict Processes](http://arxiv.org/abs/1806.02390)
 
-### Structure Design of Neural Networks via Bayesian Nonparametric models
+### Structure Design of Neural Networks via Bayesian Nonparametric Models
 1. [Nonparametric Bayesian Deep Networks with Local Competition](http://arxiv.org/abs/1805.07624)
