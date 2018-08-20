@@ -18,6 +18,7 @@
 ### Reinterpretation of Neural Networks as Bayesian Nonparametric Models
 1. [Deep Neural Networks as Gaussian Processes](http://arxiv.org/abs/1711.00165)
 2. [Gaussian Process Behaviour in Wide Deep Neural Networks](http://arxiv.org/abs/1804.11271)
+3. [Deep Convolutional Networks as Shallow Gaussian Processes](http://arxiv.org/abs/1808.05587)
 
 ### Gaussian Processes with Neural-network-inspired-structures and Inference Algorithms
 1. [Recurrent Gaussian Processes](https://arxiv.org/abs/1511.06644)
