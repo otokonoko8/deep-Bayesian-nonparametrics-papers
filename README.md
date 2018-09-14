@@ -43,5 +43,6 @@
 ### Bayesian Nonparametric Neural Networks/ Variational Inference with Implicit Stochastic Processes as Priors
 1. [Variational Implict Processes](http://arxiv.org/abs/1806.02390)
 
-### Structure Design of Neural Networks via Bayesian Nonparametric Models
+### Neural Networks Structure Design/Search via Bayesian Nonparametric Approaches
 1. [Nonparametric Bayesian Deep Networks with Local Competition](http://arxiv.org/abs/1805.07624)
+2. [Neural Architecture Search with Bayesian Optimisation and Optimal Transport](https://arxiv.org/abs/1802.07191)
