@@ -30,7 +30,8 @@
 2. [Learning Scalable Deep Kernels with Recurrent Structure](http://arxiv.org/abs/1610.08936)
 3. [Stochastic Variational Deep Kernel Learning](http://arxiv.org/abs/1611.00336)
 4. [Calibrating Deep Convolutional Gaussian Processes](https://arxiv.org/abs/1805.10522)
-5. [Differentiable Compositional Kernel Learning for Gaussian Processes](http://arviv.org/abs/1806.04326)
+5. [Differentiable Compositional Kernel Learning for Gaussian Processes](http://arxiv.org/abs/1806.04326)
+6. [Semi-supervised Deep Kernel Learning: Regression with Unlabeled Data by Minimizing Predictive Variance](http://arxiv.org/abs/1805.10407)
 
 ### Bayesian Nonparametric Variational Autoencoders/ Amortised Inference with Nonparamteric Priors  
 1. [Stick-breaking Variational Autoencoders](http://arxiv.org/abs/1605.06197)
