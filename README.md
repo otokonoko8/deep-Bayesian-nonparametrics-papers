@@ -41,7 +41,7 @@
 4. [Deep Bayesian Nonparametric Tracking](http://www.columbia.edu/~jwp2128/Papers/ZhangPaisley2018.pdf)
 5. [Gaussian Process Prior Variational Autoencoders](http://www.mit.edu/~adalca/files/papers/gppvae-arxiv-draft.pdf)
 
-### Bayesian Nonparametric Neural Networks/ Variational Inference with Implicit Stochastic Processes as Priors
+### Bayesian Nonparametric Neural Networks/ Approximate Inference with Implicit Stochastic Processes as Priors
 1. [Variational Implict Processes](http://arxiv.org/abs/1806.02390)
 2. [Functional Variational Bayesian Neural Networks](https://openreview.net/pdf?id=rkxacs0qY7)
 3. [Functional Bayesian Neural Networks for Model Uncertainty Quantification](https://openreview.net/pdf?id=SJxFN3RcFX)
