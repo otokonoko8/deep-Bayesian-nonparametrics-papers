@@ -20,6 +20,7 @@
 1. [Deep Neural Networks as Gaussian Processes](http://arxiv.org/abs/1711.00165)
 2. [Gaussian Process Behaviour in Wide Deep Neural Networks](http://arxiv.org/abs/1804.11271)
 3. [Deep Convolutional Networks as Shallow Gaussian Processes](http://arxiv.org/abs/1808.05587)
+4. [Bayesian Convolutional Neural Networks with Many Channels are Gaussian Processes](https://openreview.net/pdf?id=B1g30j0qF7)
 
 ### Gaussian Processes with Neural-network-inspired-structures and Inference Algorithms
 1. [Recurrent Gaussian Processes](https://arxiv.org/abs/1511.06644)
