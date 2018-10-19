@@ -52,3 +52,4 @@
 ### Neural Networks Structure Design/Search via Bayesian Nonparametric Approaches
 1. [Nonparametric Bayesian Deep Networks with Local Competition](http://arxiv.org/abs/1805.07624)
 2. [Neural Architecture Search with Bayesian Optimisation and Optimal Transport](https://arxiv.org/abs/1802.07191)
+3. [Gaussian Process Neurons](https://openreview.net/pdf?id=By-IifZRW)
