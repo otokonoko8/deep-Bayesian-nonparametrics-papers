@@ -47,9 +47,9 @@
 1. [Variational Implict Processes](http://arxiv.org/abs/1806.02390)
 2. [Functional Variational Bayesian Neural Networks](https://openreview.net/pdf?id=rkxacs0qY7)
 3. [Functional Bayesian Neural Networks for Model Uncertainty Quantification](https://openreview.net/pdf?id=SJxFN3RcFX)
-4. [Functional Space Particle Optimization for Bayesian Neural NetworkS](https://openreview.net/pdf?id=BkgtDsCcKQ)
+4. [Functional Space Particle Optimization for Bayesian Neural Networks](https://openreview.net/pdf?id=BkgtDsCcKQ)
 
-### Neural Networks Structure Design/Search via Bayesian Nonparametric Approaches
+### Neural Networks Structure Design via Bayesian Nonparametric Approaches
 1. [Nonparametric Bayesian Deep Networks with Local Competition](http://arxiv.org/abs/1805.07624)
 2. [Neural Architecture Search with Bayesian Optimisation and Optimal Transport](https://arxiv.org/abs/1802.07191)
 3. [Gaussian Process Neurons](https://openreview.net/pdf?id=By-IifZRW)
