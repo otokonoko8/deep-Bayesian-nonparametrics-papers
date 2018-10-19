@@ -39,8 +39,9 @@
 1. [Stick-breaking Variational Autoencoders](http://arxiv.org/abs/1605.06197)
 2. [Indian Buﬀet Process Deep Generative Models](http://vixra.org/pdf/1607.0073v2.pdf)
 3. [Nonparametric Variational Autoencoders for Hierarchical Representation Learning](http://arxiv.org/abs/1703.07027)
-4. [Deep Bayesian Nonparametric Tracking](http://www.columbia.edu/~jwp2128/Papers/ZhangPaisley2018.pdf)
-5. [Gaussian Process Prior Variational Autoencoders](http://www.mit.edu/~adalca/files/papers/gppvae-arxiv-draft.pdf)
+4. [A Bayesian Nonparametric Topic Model with Variational Auto-encoders](https://openreview.net/pdf?id=SkxqZngC-)
+5. [Deep Bayesian Nonparametric Tracking](http://www.columbia.edu/~jwp2128/Papers/ZhangPaisley2018.pdf)
+6. [Gaussian Process Prior Variational Autoencoders](http://www.mit.edu/~adalca/files/papers/gppvae-arxiv-draft.pdf)
 
 ### Bayesian Nonparametric Neural Networks/ Approximate Inference with Implicit Stochastic Processes as Priors
 1. [Variational Implict Processes](http://arxiv.org/abs/1806.02390)
