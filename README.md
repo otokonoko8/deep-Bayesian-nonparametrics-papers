@@ -27,7 +27,7 @@
 2. [Deep Recurrent Gaussian Process with Variational Sparse Spectrum Approximation](https://arxiv.org/abs/1711.00799)
 3. [Convolutional Gaussian Processes](https://arxiv.org/abs/1709.01894)
 
-### Gaussian Processes Parameterised by Deep Neural Networks
+### Gaussian Processes Inputs Transformed by Deep Neural Networks
 1. [Deep Kernel Learning](http://arxiv.org/abs/1511.02222)
 2. [Learning Scalable Deep Kernels with Recurrent Structure](http://arxiv.org/abs/1610.08936)
 3. [Stochastic Variational Deep Kernel Learning](http://arxiv.org/abs/1611.00336)
