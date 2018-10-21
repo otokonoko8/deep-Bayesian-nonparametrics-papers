@@ -15,6 +15,7 @@
 9. [Deep Gaussian Processes with Convolutional Kernels](https://arxiv.org/abs/1806.01655)
 10. [Inference in Deep Gaussian Processes using Stochastic Gradient Hamiltonian Monte Carlo](https://arxiv.org/abs/1806.05490)
 11. [Efficient Global Optimization using Deep Gaussian Processes](http://arxiv.org/abs/1809.04632)
+12. [Deep Convolutional Gaussian Processes](https://arxiv.org/abs/1810.03052)
 
 ### Reinterpretation of Neural Networks as Bayesian Nonparametric Models
 1. [Deep Neural Networks as Gaussian Processes](http://arxiv.org/abs/1711.00165)
