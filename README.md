@@ -50,7 +50,8 @@
 3. [Functional Bayesian Neural Networks for Model Uncertainty Quantification](https://openreview.net/pdf?id=SJxFN3RcFX)
 4. [Functional Space Particle Optimization for Bayesian Neural Networks](https://openreview.net/pdf?id=BkgtDsCcKQ)
 
-### Neural Networks Structure Design via Bayesian Nonparametric Approaches
-1. [Nonparametric Bayesian Deep Networks with Local Competition](http://arxiv.org/abs/1805.07624)
-2. [Neural Architecture Search with Bayesian Optimisation and Optimal Transport](https://arxiv.org/abs/1802.07191)
-3. [Gaussian Process Neurons](https://openreview.net/pdf?id=By-IifZRW)
+### Neural Networks Meta-learning via Bayesian Nonparametric Approaches
+1. [Mapping Gaussian Process Priors to Bayesian Neural Networks](http://bayesiandeeplearning.org/2017/papers/65.pdf)
+2. [Nonparametric Bayesian Deep Networks with Local Competition](http://arxiv.org/abs/1805.07624)
+3. [Neural Architecture Search with Bayesian Optimisation and Optimal Transport](https://arxiv.org/abs/1802.07191)
+4. [Gaussian Process Neurons](https://openreview.net/pdf?id=By-IifZRW)
