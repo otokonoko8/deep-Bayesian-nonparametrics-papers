@@ -40,10 +40,11 @@
 1. [Stick-breaking Variational Autoencoders](http://arxiv.org/abs/1605.06197)
 2. [Indian Buﬀet Process Deep Generative Models](http://vixra.org/pdf/1607.0073v2.pdf)
 3. [Nonparametric Variational Autoencoders for Hierarchical Representation Learning](http://arxiv.org/abs/1703.07027)
-4. [A Bayesian Nonparametric Topic Model with Variational Auto-encoders](https://openreview.net/pdf?id=SkxqZngC-)
-5. [Deep Bayesian Nonparametric Tracking](http://www.columbia.edu/~jwp2128/Papers/ZhangPaisley2018.pdf)
-6. [Gaussian Process Prior Variational Autoencoders](http://www.mit.edu/~adalca/files/papers/gppvae-arxiv-draft.pdf)
-7. [Deep Generative Model with Beta Bernoulli Process for Modeling and Learning Confounding Factors](https://arxiv.org/pdf/1811.00073.pdf)
+4. [Nonparametric Bayesian Deep Networks with Local Competition](http://arxiv.org/abs/1805.07624)
+5. [A Bayesian Nonparametric Topic Model with Variational Auto-encoders](https://openreview.net/pdf?id=SkxqZngC-)
+6. [Deep Bayesian Nonparametric Tracking](http://www.columbia.edu/~jwp2128/Papers/ZhangPaisley2018.pdf)
+7. [Gaussian Process Prior Variational Autoencoders](http://www.mit.edu/~adalca/files/papers/gppvae-arxiv-draft.pdf)
+8. [Deep Generative Model with Beta Bernoulli Process for Modeling and Learning Confounding Factors](https://arxiv.org/pdf/1811.00073.pdf)
 
 ### Bayesian Nonparametric Neural Networks/ Approximate Inference with Implicit Stochastic Processes as Priors
 1. [Variational Implict Processes](http://arxiv.org/abs/1806.02390)
@@ -51,7 +52,7 @@
 3. [Functional Bayesian Neural Networks for Model Uncertainty Quantification](https://openreview.net/pdf?id=SJxFN3RcFX)
 4. [Functional Space Particle Optimization for Bayesian Neural Networks](https://openreview.net/pdf?id=BkgtDsCcKQ)
 
-### Neural Networks Meta-learning/ Hyperparameter-tuning via Bayesian Nonparametric Approaches
+### Neural Networks Meta-Learning/ Hyperparameter-tuning via Bayesian Nonparametric Approaches
 1. [Mapping Gaussian Process Priors to Bayesian Neural Networks](http://bayesiandeeplearning.org/2017/papers/65.pdf)
 2. [Nonparametric Bayesian Deep Networks with Local Competition](http://arxiv.org/abs/1805.07624)
 3. [Neural Architecture Search with Bayesian Optimisation and Optimal Transport](https://arxiv.org/abs/1802.07191)
