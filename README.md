@@ -24,6 +24,7 @@
 2. [Gaussian Process Behaviour in Wide Deep Neural Networks](http://arxiv.org/abs/1804.11271)
 3. [Deep Convolutional Networks as Shallow Gaussian Processes](http://arxiv.org/abs/1808.05587)
 4. [Bayesian Convolutional Neural Networks with Many Channels are Gaussian Processes](https://openreview.net/pdf?id=B1g30j0qF7)
+5. [On the Connection between Neural Processes and Gaussian Processes with Deep Kernels](http://bayesiandeeplearning.org/2018/papers/128.pdf)
 
 ### Gaussian Processes with Neural-network-inspired-structures and Inference Algorithms
 1. [Recurrent Gaussian Processes](https://arxiv.org/abs/1511.06644)
@@ -38,8 +39,9 @@
 5. [Calibrating Deep Convolutional Gaussian Processes](https://arxiv.org/abs/1805.10522)
 6. [Differentiable Compositional Kernel Learning for Gaussian Processes](http://arxiv.org/abs/1806.04326)
 7. [Deep Learning with Diﬀerential Gaussian Process Flows](http://arxiv.org/abs/1810.04066)
+8. [Finite Rank Deep Kernel Learning](http://bayesiandeeplearning.org/2018/papers/98.pdf)
 
-### Bayesian Nonparametric Variational Autoencoders/ Amortised Inference with Nonparamteric Priors  
+### Bayesian Nonparametric Neural Latent Variable Models/ Amortised Inference with Nonparamteric Priors  
 1. [Stick-breaking Variational Autoencoders](http://arxiv.org/abs/1605.06197)
 2. [Indian Buﬀet Process Deep Generative Models](http://vixra.org/pdf/1607.0073v2.pdf)
 3. [Nonparametric Variational Autoencoders for Hierarchical Representation Learning](http://arxiv.org/abs/1703.07027)
@@ -49,6 +51,8 @@
 7. [Gaussian Process Prior Variational Autoencoders](http://www.mit.edu/~adalca/files/papers/gppvae-arxiv-draft.pdf)
 8. [Deep Generative Model with Beta Bernoulli Process for Modeling and Learning Confounding Factors](https://arxiv.org/pdf/1811.00073.pdf)
 9. [Stick-breaking Neural Latent Variable Models](https://drive.google.com/file/d/1nJsEcTZ9bsAh2rdRWWu1QLLyMpXLBw4c/view)
+10. [Deep Bayesian Nonparametric Factor Analysis](http://bayesiandeeplearning.org/2018/papers/131.pdf)
+11. [Deep Factors with Gaussian Processes for Forecasting](http://bayesiandeeplearning.org/2018/papers/112.pdf)
 
 ### Bayesian Nonparametric Neural Networks/ Approximate Inference with Implicit Stochastic Processes as Priors
 1. [Variational Implict Processes](http://arxiv.org/abs/1806.02390)
