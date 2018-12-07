@@ -16,8 +16,10 @@
 10. [Inference in Deep Gaussian Processes using Stochastic Gradient Hamiltonian Monte Carlo](https://arxiv.org/abs/1806.05490)
 11. [Efficient Global Optimization using Deep Gaussian Processes](http://arxiv.org/abs/1809.04632)
 12. [Deep Convolutional Gaussian Processes](https://arxiv.org/abs/1810.03052)
+13. [Deep Gaussian Processes for Multi-ﬁdelity Modeling](http://www.eurecom.fr/en/publication/5755/download/comsys-publi-5755.pdf)
 
 ### Reinterpretation of Neural Networks as Bayesian Nonparametric Models
+1. [Deep Bayesian Neural Nets as Deep Matrix Gaussian Processes](https://drive.google.com/file/d/0Bx3kAuASMMrnTmIzV255S3laM1k/view)
 1. [Deep Neural Networks as Gaussian Processes](http://arxiv.org/abs/1711.00165)
 2. [Gaussian Process Behaviour in Wide Deep Neural Networks](http://arxiv.org/abs/1804.11271)
 3. [Deep Convolutional Networks as Shallow Gaussian Processes](http://arxiv.org/abs/1808.05587)
@@ -46,6 +48,7 @@
 6. [Deep Bayesian Nonparametric Tracking](http://www.columbia.edu/~jwp2128/Papers/ZhangPaisley2018.pdf)
 7. [Gaussian Process Prior Variational Autoencoders](http://www.mit.edu/~adalca/files/papers/gppvae-arxiv-draft.pdf)
 8. [Deep Generative Model with Beta Bernoulli Process for Modeling and Learning Confounding Factors](https://arxiv.org/pdf/1811.00073.pdf)
+9. [Stick-breaking Neural Latent Variable Models](https://drive.google.com/file/d/1nJsEcTZ9bsAh2rdRWWu1QLLyMpXLBw4c/view)
 
 ### Bayesian Nonparametric Neural Networks/ Approximate Inference with Implicit Stochastic Processes as Priors
 1. [Variational Implict Processes](http://arxiv.org/abs/1806.02390)
