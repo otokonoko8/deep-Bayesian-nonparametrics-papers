@@ -34,6 +34,7 @@
 1. [Recurrent Gaussian Processes](https://arxiv.org/abs/1511.06644)
 2. [Deep Recurrent Gaussian Process with Variational Sparse Spectrum Approximation](https://arxiv.org/abs/1711.00799)
 3. [Convolutional Gaussian Processes](https://arxiv.org/abs/1709.01894)
+4. [Overcoming Mean-Field Approximations in Recurrent Gaussian Process Models](https://arxiv.org/abs/1906.05828)
 
 ### Gaussian Processes Inputs Transformed by Deep Architecture
 1. [Deep Kernel Learning](http://arxiv.org/abs/1511.02222)
@@ -44,6 +45,7 @@
 6. [Differentiable Compositional Kernel Learning for Gaussian Processes](http://arxiv.org/abs/1806.04326)
 7. [Deep Learning with Diﬀerential Gaussian Process Flows](http://arxiv.org/abs/1810.04066)
 8. [Finite Rank Deep Kernel Learning](http://bayesiandeeplearning.org/2018/papers/98.pdf)
+9. [Adaptive Deep Kernel Learning](https://arxiv.org/abs/1905.12131)
 
 ### Bayesian Nonparametric Neural Latent Variable Models/ Amortised Inference with Nonparamteric Priors  
 1. [Stick-breaking Variational Autoencoders](http://arxiv.org/abs/1605.06197)
