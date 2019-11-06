@@ -19,6 +19,7 @@
 13. [Deep Gaussian Processes for Multi-ﬁdelity Modeling](http://www.eurecom.fr/en/publication/5755/download/comsys-publi-5755.pdf)
 14. [Deep Gaussian Processes with Importance-Weighted Variational Inference](https://arxiv.org/abs/1905.05435)
 15. [Compositional Uncertainty in Deep Gaussian Processes](https://arxiv.org/abs/1909.07698)
+16. [Implicit Posterior Variational Inference for Deep Gaussian Processes](http://arxiv.org/abs/1910.11998)
 
 ### Reinterpretation of Neural Networks as Bayesian Nonparametric Models
 1. [Deep Bayesian Neural Nets as Deep Matrix Gaussian Processes](https://drive.google.com/file/d/0Bx3kAuASMMrnTmIzV255S3laM1k/view)
@@ -29,6 +30,7 @@
 5. [On the Connection between Neural Processes and Gaussian Processes with Deep Kernels](http://bayesiandeeplearning.org/2018/papers/128.pdf)
 6. [Approximate Inference Turns Deep Networks into Gaussian Processes](https://arxiv.org/abs/1906.01930)
 7. [Non-Gaussian Processes and Neural Networks at Finite Widths](https://openreview.net/forum?id=HygP3TVFvS&noteId=HygP3TVFvS)
+8. [Wide Feedforward or Recurrent Neural Networks of Any Architecture are Gaussian Processes](https://arxiv.org/abs/1910.12478)
 
 ### Gaussian Processes with Neural-network-inspired-structures and Inference Algorithms
 1. [Recurrent Gaussian Processes](https://arxiv.org/abs/1511.06644)
